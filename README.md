@@ -9,7 +9,7 @@ This page provide a description of the comic Onomatopoeia dataset (Kaboom_onomat
    <img src="" width=80%>
 </p>
 
-## Dataset: Comic Onomatopoeia (kaboom onomatopea)
+## Dataset: Comic Onomatopoeia (kaboom onomatopea) sample
  <br>
 
 <p align="center">

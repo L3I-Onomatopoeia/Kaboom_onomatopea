@@ -13,5 +13,5 @@ This page provide a description of the comic Onomatopoeia dataset (Kaboom_onomat
  <br>
 
 <p align="center">
-   <img src="sample.jpg" width=80%>
+   <img src="sample.JPG" width=80%>
 </p>

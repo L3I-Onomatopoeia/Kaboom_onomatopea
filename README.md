@@ -9,9 +9,17 @@ This page provide a description of the comic Onomatopoeia dataset (Kaboom_onomat
    <img src="" width=80%>
 </p>
 
+## Dataset: annotation structure of kaboom onomatopea
+ <br>
+
+<p align="center">
+   <img src="level_annotaion.jpg" width=80%>
+</p>
+
 ## Dataset: Comic Onomatopoeia (kaboom onomatopea) sample
  <br>
 
 <p align="center">
    <img src="sample.JPG" width=80%>
 </p>
+
